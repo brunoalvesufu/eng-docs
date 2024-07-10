@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cursive on Windows (Mac style) Cheat Sheet</title>
+    <title>Cursive on Windows Cheat Sheet</title>
     <style>
         body { font-family: Arial, sans-serif; color: #333; }
         .header, .footer { background-color: #333; color: white; padding: 10px; text-align: center; }
@@ -19,7 +19,7 @@
 <body>
 
 <div class="header">
-    <h2>Cursive on Windows (Mac style) Cheat Sheet</h2>
+    <h2>Cursive on Windows Cheat Sheet</h2>
 </div>
 
 <table class="table">

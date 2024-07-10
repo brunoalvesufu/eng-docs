@@ -25,26 +25,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Clojure/Cursive Plugin.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "80bf7c569fcd6006"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "f71700504407b978",
+        "id": "fd57241be0bb4fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b8514c3443f2d8",
+            "id": "59106e028b7e1814",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Clojure/Cursive Plugin.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "80bf7c569fcd6006"
           }
         ]
       }
@@ -112,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Clojure/Cursive Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Clojure/Cursive Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Clojure/Cursive Plugin.md"
               }
             }
           }
@@ -173,14 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6d9808158c8ffc7",
+  "active": "59106e028b7e1814",
   "lastOpenFiles": [
+    "Clojure/Cheat Sheet - Cursive Plugin (Mac).md",
+    "Clojure/Cursive Plugin.md",
+    "Clojure/Cheat Sheet - Cursive Plugin (Win).md",
     "Review Scrapper/Architecture - Review Scrapper.md",
     "Git.md",
     "Git",
     "TODO.md",
-    "Clojure/Cursive Plugin.md",
-    "Clojure/Cheat Sheet - Cursive Plugin.md",
     "Review Scrapper",
     "Clojure"
   ]
