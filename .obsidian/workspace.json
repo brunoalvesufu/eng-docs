@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6d9808158c8ffc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f71700504407b978",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review Scrapper/Architecture - Review Scrapper.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review Scrapper/Architecture - Review Scrapper.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review Scrapper/Architecture - Review Scrapper.md"
+                "file": "Git.md"
               }
             }
           }
@@ -160,10 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99c04dd20ee647cf",
+  "active": "e6d9808158c8ffc7",
   "lastOpenFiles": [
-    "TODO.md",
     "Review Scrapper/Architecture - Review Scrapper.md",
+    "Git.md",
+    "Git",
+    "TODO.md",
     "Clojure/Cursive Plugin.md",
     "Clojure/Cheat Sheet - Cursive Plugin.md",
     "Review Scrapper",
