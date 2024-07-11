@@ -269,4 +269,4 @@
 </table>
 
 <div class="footer">
-    <p>Published 2nd July, 2015. Updated 7th September, 201
+    <p>Published 2nd July, 2015. Updated 7th September, 2016. Page 1 of 1.</p> <p>Cheatographer: J. Pablo Fernández (pupeno) via cheatography.com</p> </div> </body> </html>
